@@ -124,3 +124,5 @@ settings_local.py
 .e-commerce/
 dump.json
 dump_master_data_only.sql
+
+db.sqlite3
